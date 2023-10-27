@@ -1,0 +1,20 @@
+{
+  "name": "desenvolvimento_websites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/san8117/node_express-gui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/san8117/node_express-gui/issues"
+  },
+  "homepage": "https://github.com/san8117/node_express-gui#readme"
+}
